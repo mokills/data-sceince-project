@@ -32,7 +32,7 @@ pip install pandas matplotlib seaborn scikit-learn folium
 
 Run the main file:
 
-python main.py
+python hhhhhuu.py
 
 
 This loads the data, merges it, creates the graphs, makes the choropleth map, and runs the models.
